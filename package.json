@@ -20,10 +20,6 @@
     "pkg:linux": "pkg . --targets node14-linux-x64 --output ./.dist/kit-linux-64",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@g.hz.netease.com:22222/kit/kit.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
